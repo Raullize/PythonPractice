@@ -14,7 +14,3 @@ O objetivo principal deste repositório é praticar e consolidar os conhecimento
 - Módulos e pacotes
 - POO (Programação Orientada a Objetos)
 - Interação com APIs e automação
-
-## Projetos
-
-Aqui estão alguns dos projetos que serão desenvolvidos:
